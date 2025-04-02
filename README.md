@@ -57,12 +57,13 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 ---
 
 ### 🔥 GitHub Contribution Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Iamthor15)](https://git.io/streak-stats)
 
 ---
 
 ### 🔝 Top Contributed Repo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamthor15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamthor15&layout=compact)](https://github.com/Iamthor15/github-readme-stats)
 
 ---
 
