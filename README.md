@@ -52,18 +52,22 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamthor15&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
+Welcome to my GitHub profile! I'm passionate about coding, open-source, and continuous learning.
+
 ---
+
 ### 🔥 GitHub Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Iamthor15)](https://git.io/streak-stats)
+
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamthor15&limit=5&theme=flat&combine_all_yearly_contributions=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamthor15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-🤝 Open to **Project Collaborations**  
-📧 Let’s chat: (mailto:iamthor1504@gmail.com)
+💡 **Fun Fact:** I love building cool projects and contributing to open-source!  
+📫 **Reach Me:** Feel free to connect or collaborate on any exciting projects!
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
 
