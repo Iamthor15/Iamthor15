@@ -1,9 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Rithik A.K Singh </h1>
 
-<div align="center">
-  <img src="" alt=" Banner">
-</div>
-
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make open source projects and update my learnings
 
 <p align="center">
@@ -58,9 +54,6 @@
 
 ---
 ### 🔥 GitHub Contribution Streak
-
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
 ---
 
 ### 🔝 Top Contributed Repo
